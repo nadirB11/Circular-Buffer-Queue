@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1602148104 source:c:\users\nadir\onedrive\documents\c\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<stdint.h>
+	<assert.h>
+
